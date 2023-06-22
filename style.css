@@ -79,7 +79,7 @@ body {
   color: #ffd966;
   margin-top: 30%;
   margin-left: 100px;
-  /* min-height: 500px; */
+  min-height: 500px;
 }
 
 h1 {
@@ -127,7 +127,7 @@ main {
 /* ABOUT */
 .about {
   padding: 10rem 10% 1.4rem;
-  min-height: 500px;
+  min-height: 600px;
 }
 
 .iabout img {
@@ -142,6 +142,7 @@ main {
   color: var(--primary);
   text-align: center;
   font-size: 2.5rem;
+  margin-top: -100px;
 }
 
 .about p {
