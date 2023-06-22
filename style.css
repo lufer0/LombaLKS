@@ -127,7 +127,7 @@ main {
 /* ABOUT */
 .about {
   padding: 10rem 10% 1.4rem;
-  min-height: 600px;
+  min-height: 700px;
 }
 
 .iabout img {
@@ -135,6 +135,7 @@ main {
   width: 350px;
   margin-top: 15px;
   margin-left: 20px;
+  margin-bottom: 20px;
   border-radius: 20px;
 }
 
@@ -143,6 +144,7 @@ main {
   text-align: center;
   font-size: 2.5rem;
   margin-top: -100px;
+  margin-bottom: 10px;
 }
 
 .about p {
@@ -153,18 +155,21 @@ main {
 /* CONTACT */
 .contact {
   padding: 10rem 10% 1.4rem;
-  min-height: 500px;
+  min-height: 700px;
 }
 
 .contact h3 {
   color: var(--primary);
   text-align: center;
   font-size: 2.5rem;
+  margin-bottom: 10px;
+  margin-top: -100px;
 }
 
 .contact p {
   text-align: justify;
   color: #b0b0b0;
+  font-size: 1rem;
 }
 /* FOOTER */
 
