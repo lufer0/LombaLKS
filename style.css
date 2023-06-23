@@ -18,7 +18,7 @@ html {
 
 /* NAVBAR */
 .navbar {
-  background-color: var(--bg);
+  background-color: rgba(38, 41, 43, 0.8);
   color: #ffd966;
   border-bottom: 0.5px solid gray;
   width: 100%;
