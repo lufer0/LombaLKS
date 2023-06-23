@@ -164,6 +164,13 @@ main {
   min-height: 700px;
 }
 
+.contact img {
+  width: 250px;
+  border-radius: 50px;
+  float: left;
+  padding-right: 20px;
+}
+
 .contact h3 {
   color: var(--primary);
   text-align: center;
